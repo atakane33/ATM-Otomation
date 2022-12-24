@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM Otomasyonu", "ATM Otomasyonu\ATM Otomasyonu.csproj", "{98E89504-7F88-47D5-85F7-837711DB64CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98E89504-7F88-47D5-85F7-837711DB64CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98E89504-7F88-47D5-85F7-837711DB64CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98E89504-7F88-47D5-85F7-837711DB64CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98E89504-7F88-47D5-85F7-837711DB64CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74C62AFC-2C95-472B-9DC0-1606FE08E816}
+	EndGlobalSection
+EndGlobal

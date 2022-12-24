@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\ATM Otomasyonu\ATM Otomasyonu\bin\Debug\ATM Otomasyonu.exe.config
+C:\Users\hp\source\repos\ATM Otomasyonu\ATM Otomasyonu\bin\Debug\ATM Otomasyonu.exe
+C:\Users\hp\source\repos\ATM Otomasyonu\ATM Otomasyonu\bin\Debug\ATM Otomasyonu.pdb
+C:\Users\hp\source\repos\ATM Otomasyonu\ATM Otomasyonu\obj\Debug\ATM Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ATM Otomasyonu\ATM Otomasyonu\obj\Debug\ATM Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ATM Otomasyonu\ATM Otomasyonu\obj\Debug\ATM Otomasyonu.exe
+C:\Users\hp\source\repos\ATM Otomasyonu\ATM Otomasyonu\obj\Debug\ATM Otomasyonu.pdb
